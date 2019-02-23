@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "d3 力图模拟器",
   "files": [
-    "lib",
     "src",
     "dist"
   ],
